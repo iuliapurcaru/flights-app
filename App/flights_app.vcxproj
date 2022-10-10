@@ -141,6 +141,9 @@
   <ItemGroup>
     <ClCompile Include="flights_app.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Classes\CreateUser.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
