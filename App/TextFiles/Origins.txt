@@ -1,6 +1,6 @@
-Romania
-Germania
-Austria
-Noua Zeelanda
-Marea Britanie
-Grecia
+Bucharest
+Berlin
+Vienna
+London
+Athens
+Madrid
