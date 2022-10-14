@@ -1,6 +1,6 @@
-Austria
-Marea Britanie
-Italia
-Romania
-Portugalia
-Franta
+Vienna
+London
+Rome
+Bucharest
+Lisbon
+Paris
